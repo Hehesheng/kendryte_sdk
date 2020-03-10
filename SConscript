@@ -6,6 +6,7 @@ kendryte-standalone-sdk/lib/bsp/sleep.c
 kendryte-standalone-sdk/lib/bsp/entry.c
 kendryte-standalone-sdk/lib/bsp/entry_user.c
 kendryte-standalone-sdk/lib/drivers/aes.c
+kendryte-standalone-sdk/lib/drivers/apu.c
 kendryte-standalone-sdk/lib/drivers/clint.c
 kendryte-standalone-sdk/lib/drivers/dmac.c
 kendryte-standalone-sdk/lib/drivers/dvp.c
@@ -23,6 +24,8 @@ kendryte-standalone-sdk/lib/drivers/sha256.c
 kendryte-standalone-sdk/lib/drivers/spi.c
 kendryte-standalone-sdk/lib/drivers/sysctl.c
 kendryte-standalone-sdk/lib/drivers/timer.c
+kendryte-standalone-sdk/lib/drivers/uart.c
+kendryte-standalone-sdk/lib/drivers/uarths.c
 kendryte-standalone-sdk/lib/drivers/utils.c
 kendryte-standalone-sdk/lib/drivers/wdt.c
 ''')
